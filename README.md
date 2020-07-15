@@ -1,0 +1,1 @@
+# IdealSolutionDotNetCore3.1EFCore
